@@ -21,14 +21,14 @@ h1{
     text-align:center;
     color:#FF5841;
 }
-header>h1>a>img{
-    margin:1em 1em auto auto;
-}
 h2{
     font-size:36px;
     text-align:center;
 }
 /*Inicio*/
+header>h1>a>img{
+    margin:1em 1em auto auto;
+}
 main{
     margin-top:10%;
 }
